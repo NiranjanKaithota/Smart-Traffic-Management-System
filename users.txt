@@ -1,0 +1,6 @@
+Niranjan,niranjansk.ai23,asdf,Intel,Sarjapur road, Bengaluru
+Niranjan,niranjansk.ai23,asdf,Intel,BTM Layout
+Niranjan,niranjansk.ai23,asdf,Intel,BTM Layout
+
+Niranjan,niranjansk.ai23,asdfg,Intel,BTM Layout
+sam,sam@gmail.com,sam123,rvce,abcd
